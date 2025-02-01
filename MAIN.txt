@@ -1,0 +1,231 @@
+#EXTM3U
+
+############################## TV ##############################
+
+#EXTINF:-1 tvg-type="live" group-title="TV",Globo RJ
+https://stream1.freetv.fun/globo-rj-1.ctv
+#EXTINF:-1 tvg-type="live" group-title="TV",Globo SP
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/10
+#EXTINF:-1 tvg-type="live" group-title="TV",Globo SP²
+http://204.12.227.194:80/4/live.m3u8
+#EXTINF:-1 tvg-type="live" group-title="TV",GLOBO NEWS
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/498
+#EXTINF:-1 tvg-type="live" group-title="TV",RecordTV MG
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/120
+#EXTINF:-1 tvg-type="live" group-title="TV",RecordTV RJ
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
+#EXTINF:-1 tvg-type="live" group-title="TV",RecordTV SP
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/116
+#EXTINF:-1 tvg-type="live" group-title="TV",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+#EXTINF:-1 tvg-type="live" group-title="TV",Band SP
+https://super-cdn.link/band/index.m3u
+#EXTINF:-1 tvg-type="live" group-title="TV",SBT
+https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1
+#EXTINF:-1 tvg-type="live" group-title="TV",RedeTV
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+#EXTINF:-1 tvg-type="live" group-title="TV",CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
+#### TV - FILMES ####
+
+#EXTINF:-1, tvg-type="live" group-title="FILMES",AMC
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/228
+#EXTINF:-1, tvg-type="live" group-title="FILMES",A&E
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+#EXTINF:-1, tvg-type="live" group-title="FILMES",CINEMAX
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/239
+#EXTINF:-1, tvg-type="live" group-title="FILMES",COMEDY CENTRAL
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/99
+#EXTINF:-1, tvg-type="live" group-title="FILMES",HBO
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/251
+#EXTINF:-1, tvg-type="live" group-title="FILMES",HBO +
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/246
+#EXTINF:-1, tvg-type="live" group-title="FILMES",HBO 2
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/247
+#EXTINF:-1, tvg-type="live" group-title="FILMES",HBO FAMILY
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/252
+#EXTINF:-1, tvg-type="live" group-title="FILMES",HBO MUNDI
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/256
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PARAMOUNT NETWORK
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/275
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PARAMOUNT+ 1
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1151
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PARAMOUNT+ 2
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1152
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PARAMOUNT+ 3
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1153
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PARAMOUNT+ 4
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1154
+#EXTINF:-1, tvg-type="live" group-title="FILMES",SONY
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/238
+#EXTINF:-1, tvg-type="live" group-title="FILMES",STAR
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/281
+#EXTINF:-1, tvg-type="live" group-title="FILMES",UNIVERSAL CHANNEL
+https://abrir.me/gncXj?ManoTV
+#EXTINF:-1, tvg-type="live" group-title="FILMES",STUDIO UNIVERSAL
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/289
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TELECINE ACTION
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/294
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TELECINE FUN
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/300
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TELECINE PIPOCA
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/303
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TELECINE PREMIUM
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/306
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TELECINE TOUCH
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/309
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TLC
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/91
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TNT
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/312
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TNT SERIES
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/314
+#EXTINF:-1, tvg-type="live" group-title="FILMES",TOP TV
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-type="live" group-title="FILMES",WARNER
+https://stream1.freetv.fun/warner-channel-3.ctv
+#EXTINF:-1, tvg-type="live" group-title="FILMES",SPACE HD
+https://super-cdn.link/space/index.m3u8
+#EXTINF:-1, tvg-type="live" group-title="FILMES",USA Network HD
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PLUTO - CINE CRIME
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PLUTO - MISTERIOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PLUTO - ARQUIVOS DO FBI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, tvg-type="live" group-title="FILMES",RUNTIME - ACAO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1, tvg-type="live" group-title="FILMES",RUNTIME - FILMES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1, tvg-type="live" group-title="FILMES",RUNTIME - COMEDIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1, tvg-type="live" group-title="FILMES",RUNTIME - FAMILIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1, tvg-type="live" group-title="FILMES",RUNTIME - ROMANCE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1, tvg-type="live" group-title="FILMES",RUNTIME - CRIME
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1, tvg-type="live" group-title="FILMES",RUNTIME - CINE ESPANTO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PLUTO - PORTA DOS FUNDOS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef22-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4be72ee-4337-4176-a253-be6d837c977f&userId=&serverSideAds=true
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PLUTO - FAILARMY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef23-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=06a388de-3b13-4ca7-8144-9c9d538f436c&userId=&serverSideAds=true
+#EXTINF:-1, tvg-type="live" group-title="FILMES",PLUTO - O HOMEM QUE VEIO DO CEU
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, tvg-type="live" group-title="FILMES",OS DEZ MANDAMENTOS
+https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
+#EXTINF:-1, tvg-type="live" group-title="FILMES",CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1, tvg-type="live" group-title="FILMES",NOVELISSIMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1, tvg-type="live" group-title="FILMES",MASTERCHEF
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
+#EXTINF:-1, tvg-type="live" group-title="FILMES",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+#EXTINF:-1, tvg-type="live" group-title="FILMES",FilmRise
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
+#EXTINF:-1, tvg-type="live" group-title="FILMES",HTO FILMES
+https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+
+#### TV - ESPORTES ####
+
+#EXTINF:-1, group-title="ESPORTES",CAZE TV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:-1, group-title="ESPORTES",CazéTV SD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/576p-vtt/index.m3u8
+#EXTINF:-1, group-title="ESPORTES",CazéTV HD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/720p-vtt/index.m3u8
+#EXTINF:-1, group-title="ESPORTES",CazéTV FHD
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1, group-title="ESPORTES",CazéTV FHD²
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/80
+#EXTINF:-1, group-title="ESPORTES",PREMIERE 1
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/149
+#EXTINF:-1, group-title="ESPORTES",PREMIERE 2
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/153
+#EXTINF:-1, group-title="ESPORTES",PREMIERE 3
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/155
+#EXTINF:-1, group-title="ESPORTES",PREMIERE CLUBES
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/165
+#EXTINF:-1, group-title="ESPORTES",ESPN
+https://super-cdn.link/espn2/index.m3u8
+#EXTINF:-1, group-title="ESPORTES",Band Sports
+https://stream1.freetv.fun/band-sports-3.m3u8
+#EXTINF:-1, group-title="ESPORTES",COMBATE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1, group-title="ESPORTES",UFC
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/134
+#EXTINF:-1, group-title="ESPORTES",WOOHOO
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/117
+#EXTINF:-1, group-title="ESPORTES",NOSSO FUTEBOL 1
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1131
+#EXTINF:-1, group-title="ESPORTES",NOSSO FUTEBOL 2
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1132
+#EXTINF:-1, group-title="ESPORTES",NOSSO FUTEBOL 3
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1133
+#EXTINF:-1, group-title="ESPORTES",NOSSO FUTEBOL 4
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/1134
+
+#### TV - DOCUMENTARIOS ####
+#EXTINF:-1,HISTORY
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/83
+#EXTINF:-1,HISTORY 2
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/815
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/87
+#EXTINF:-1,ANIMAL PLANET
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/61
+#EXTINF:-1,DISCOVERY CHANNEL
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/65
+#EXTINF:-1,DISCOVERY H&H
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/67
+#EXTINF:-1,DISCOVERY SCIENCE
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/71
+#EXTINF:-1,DISCOVERY THEATER
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/73
+#EXTINF:-1,DISCOVERY TURBO
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/75
+#EXTINF:-1,DISCOVERY WORLD
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/77
+
+## TV - DESENHOS ##
+#EXTINF:-1 group-title="DESENHOS",FOX KIDS
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",ZOOMOO KIDS
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/370
+#EXTINF:-1 group-title="DESENHOS",CARTOON NETWORK
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/346
+#EXTINF:-1 group-title="DESENHOS",CARTOONITO
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/344
+#EXTINF:-1 group-title="DESENHOS",NICKELODEON
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/365
+#EXTINF:-1 group-title="DESENHOS",NICK CLÁSSICO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:-1 group-title="DESENHOS",NICK JR.
+http://78.159.119.122:2082/XPLUS2EXTRA-vcwnwvByfl/vTeYwXE9JY/363
+#EXTINF:-1 group-title="DESENHOS",Fox Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DESENHOS",NARUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DESENHOS",ANIMES TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ManoTV
+#EXTINF:-1 group-title="DESENHOS",BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DESENHOS",O REINO INFANTIL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5765170-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b976462f-c9ea-4e8b-bbf6-df21635438ff&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DESENHOS",TURMA DA MONICA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DESENHOS",PATRULHA CANINA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="DESENHOS",KID MAIS
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+#EXTINF:-1 group-title="DESENHOS",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
+#EXTINF:-1 group-title="DESENHOS",KURIAKOS
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
